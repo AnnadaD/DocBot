@@ -39,7 +39,7 @@ def generate_google_calendar_link(title, start_datetime, end_datetime, details):
 #initializing the apis
 vertexai.init(project="fluid-outcome-431318-i4", location="us-central1")
 gemini_model = GenerativeModel("gemini-2.0-flash-001")
-mistral_client = Mistral(api_key="T8D4i12helkPRJzwR3ZcySiP4LJg4AUX")
+mistral_client = Mistral(api_key="Write your own API key here")
 
 st.set_page_config(page_title="DocBot AI", page_icon="🩺", layout="wide")
 st.sidebar.title("Select Mode")
