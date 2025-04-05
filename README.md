@@ -53,7 +53,7 @@ Switch between:
 
 ## Here's how it looks like
 
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/9bb75c7d-f867-4279-b0ab-f6fba87e5892" />
+<img width="1026" alt="Image" src="https://github.com/user-attachments/assets/f6e343a9-88e3-4415-b348-4b15eb9653bf" />
 
 ## 🧪 Installation & Setup
 
