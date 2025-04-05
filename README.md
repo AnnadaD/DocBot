@@ -51,6 +51,10 @@ Switch between:
 | Google Calendar API | Medication reminder integration |
 | Pandas | Dataset querying and intelligent matching |
 
+## Here's how it looks like
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/9bb75c7d-f867-4279-b0ab-f6fba87e5892" />
+
 ## 🧪 Installation & Setup
 
 ### Step 1: Clone the Repository
